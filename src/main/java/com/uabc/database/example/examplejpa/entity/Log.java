@@ -26,7 +26,7 @@ public class Log {
     private String url;
 
 
-    public Log(Date date, String details, String username, String url) {
+    public Log() {
         this.date = date;
         this.details = details;
         this.username = username;
